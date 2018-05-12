@@ -22,6 +22,8 @@ creator:
     - http://en.wikipedia.org/wiki/Molly_Elliot_Seawell
     - http://www.gutenberg.org/ebooks/author/43099
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31804#Francezka
 gutenberg_issued: '2010-03-28'
 gutenberg_type: Text
 identifiers:
